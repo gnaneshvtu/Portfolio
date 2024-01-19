@@ -6,6 +6,6 @@ My website portfolio
 ![alt text](https://github.com/gnaneshvtu/Gnanesh-Gowda-portfolio/tree/main/Portfolio-master/Portfolio.PNG)
 
 ### Mobile View
-![alt text](https://github.com/gnaneshvtu/Portfolio-master/Portfolio_mobile.PNG)
+![alt text](https://github.com/gnaneshvtu/Portfolio/blob/main/Portfolio-master/portfolio-mobile.png.png)
 
 
