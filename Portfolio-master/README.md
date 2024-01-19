@@ -3,7 +3,7 @@ My website portfolio
 
 ## Screenshots:
 ### Computer View
-![alt text](https://github.com/gnaneshvtu/Gnanesh-Gowda-portfolio/tree/main/Portfolio-master/Portfolio.PNG)
+![alt text](https://github.com/gnaneshvtu/Portfolio/blob/main/Portfolio-master/Portfolio.png.png)
 
 ### Mobile View
 ![alt text](https://github.com/gnaneshvtu/Portfolio/blob/main/Portfolio-master/portfolio-mobile.png.png)
